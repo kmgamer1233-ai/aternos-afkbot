@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"SafeHeavenSMP.aternos.me",
+	"port": "45764",
 	"name": "BOT_NAME"
 }
